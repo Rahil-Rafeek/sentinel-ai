@@ -1,0 +1,14 @@
+==============================================================
+🛡️  SENTINEL AI — ACTIVE SHAREABLE LINKS
+Updated: Sat Oct 31 15:07:59 IST 2026
+==============================================================
+
+🔗 Primary (Cloudflare Edge):
+   https://elsewhere-early-complimentary-florists.trycloudflare.com
+
+🔗 Alternative (SSH Direct):
+   https://da695c8c0f3278.lhr.life
+
+Backend Health: http://127.0.0.1:8000/api/v1/system/health
+Status: OPERATIONAL
+==============================================================
