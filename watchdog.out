@@ -1,0 +1,1 @@
+./tunnel_watchdog.sh: line 60: 15524 Killed: 9               nohup "$CLOUDFLARED_BIN" tunnel --url http://127.0.0.1:8000 > ./sentinel_tunnel.log 2>&1
