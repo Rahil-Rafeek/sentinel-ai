@@ -130,7 +130,7 @@ cd sentinel-ai/frontend
 npm run dev
 # or: ./node_modules/.bin/vite --port 5173 --host
 ```
-- Open your browser at **[http://localhost:5173](http://localhost:5173)**
+- Open your browser at **[http://localhost:5173](https://sentinel-ai-1-r6ly.onrender.com)**
 
 ---
 
